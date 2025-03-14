@@ -1,0 +1,32 @@
+[
+    {
+        "productname": "Wireless Keyboard",
+        "sku": "KB-WL-200",
+        "quantity": 42,
+        "status": "available"
+    },
+    {
+        "productname": "Portable Power Bank",
+        "sku": "PWR-10000-BLK",
+        "quantity": 78,
+        "status": "available"
+    },
+    {
+        "productname": "Ergonomic Mouse",
+        "sku": "MS-ERGO-PRO",
+        "quantity": 25,
+        "status": "shipping"
+    },
+    {
+        "productname": "USB-C Hub Adapter",
+        "sku": "ADAPTER-USBC-7",
+        "quantity": 65,
+        "status": "shipping"
+    },
+    {
+        "productname": "Bluetooth Headset",
+        "sku": "AUDIO-BT-500",
+        "quantity": 0,
+        "status": "out of stock"
+    }
+]
